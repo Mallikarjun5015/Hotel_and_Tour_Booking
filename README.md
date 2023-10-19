@@ -1,4 +1,4 @@
-# simple-hotel-tourism-site
+# Hotel-&-tour-Booking_site
 This is a simple Hotel and Tourism project built in PHP.
 
 1.first install the XAMPP control panal
